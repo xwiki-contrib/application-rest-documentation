@@ -27,7 +27,7 @@
   </parent>
   <groupId>org.xwiki.contrib</groupId>
   <artifactId>application-rest-documentation</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.1</version>
   <name>REST Documentation Application - Parent POM</name>
   <packaging>pom</packaging>
   <description>An application to document your REST APIs.</description>
@@ -48,7 +48,7 @@
    <connection>scm:git:git://github.com/xwiki-contrib/application-rest-documentation.git</connection>
    <developerConnection>scm:git:git@github.com:xwiki-contrib/application-rest-documentation.git</developerConnection>
    <url>https://github.com/xwiki-contrib/application-rest-documentation</url>
-    <tag>HEAD</tag>
+    <tag>application-rest-documentation-0.1</tag>
   </scm>
   <distributionManagement>
    <repository>
