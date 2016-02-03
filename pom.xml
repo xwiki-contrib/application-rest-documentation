@@ -47,7 +47,7 @@
   <scm>
    <connection>scm:git:git://github.com/xwiki-contrib/application-rest-documentation.git</connection>
    <developerConnection>scm:git:git@github.com:xwiki-contrib/application-rest-documentation.git</developerConnection>
-   <url>https://github.com/xwiki-contrib/application-rest-documentation</url>
+   <url>https://github.com/xwiki-contrib/application-rest-documentation/tree/master</url>
     <tag>HEAD</tag>
   </scm>
   <distributionManagement>
